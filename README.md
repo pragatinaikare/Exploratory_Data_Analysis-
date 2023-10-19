@@ -6,7 +6,7 @@ The dataset I used for EDA contains information related to various factors that 
 
 Data Source (Kaggle)  :
 
-https://www.kaggle.com/datasets/dileep070/heart-disease-prediction-using-logistic-regression?select=framingham.csvLinks to an external site.
+https://www.kaggle.com/datasets/dileep070/heart-disease-prediction-using-logistic-regression?select=framingham.csv
 
 Goal: The primary goal of this analysis is to explore the relationship between smoking habits, health variables (BMI, heart rate), and coronary heart disease risk, while also comparing heart rates between smokers and non-smokers, in order to better understand the impact of smoking on cardiovascular health.
 
