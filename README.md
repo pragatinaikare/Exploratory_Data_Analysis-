@@ -1,4 +1,4 @@
-# Exploratory Data Analysis
+# Coronary heart disease (CHD) - Exploratory Data Analysis
 
 Howdy,
 
